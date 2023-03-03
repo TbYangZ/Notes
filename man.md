@@ -40,14 +40,16 @@
 
 用 `git remote renamte <old_name> <new_name>` 对仓库重新命名。
 
-
-
 再使用指令 `git push -u origin main`。`main` 为分支名称。
-
-
 
 ### 查看文件的状态
 
 使用指令 `git status`。
 
+## Git 分支
 
+创建分支：`git branch <name>`
+
+切换分支：`git checkout <name>`
+
+分支合并：`git merge` 将所有分支
