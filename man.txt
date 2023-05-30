@@ -11,9 +11,5 @@
 暂存状态
 处于暂存（staged） 状态的文件意味着它可以被提交了。在这种状态下，所有必要的修改都已经完成，所以下一步就是把文件移到提交状态。
 
-
-
 将本地 reop 和 Github 上的远程 reop 建立连接：git remote add origin (github仓库地址（url或者ssh）)
 origin 为版本等标识，可以用remove删除
-
-

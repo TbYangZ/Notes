@@ -32,7 +32,7 @@
 
 一般会在后面加参数 `-m "first commit"`，以表示提交的信息。
 
-### 推送的 GitHub 仓库中
+### 推送到 GitHub 仓库中
 
 先将本地库与 GitHub 中的仓库进行连接。使用指令 `git remote add origin <url/ssh>` 进行连接。其中 `origin` 表示本地的版本库的名字。
 
