@@ -48,8 +48,8 @@
 
 ## Git 分支
 
-创建分支：`git branch <name>`
+创建分支：`git branch <name>` 使用 `-d` 参数可以创建新的分支后立即切换。
 
 切换分支：`git checkout <name>`
 
-分支合并：`git merge` 将所有分支
+分支合并：`git merge` 将所有分支合并到主分支
